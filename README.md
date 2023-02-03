@@ -5,8 +5,6 @@ VenmoMachine is a VenMo vending machine simulation app that functions like one, 
 ![image](https://user-images.githubusercontent.com/108663786/216488599-173ee78b-65c4-4c69-86f5-cf69d580af6e.png)
 ![image](https://user-images.githubusercontent.com/108663786/216488803-48060008-75ef-4313-ae80-c656104d44c4.png)
 
-## Untested
-- may not work for tablets or foldables (as provided instruction for activity is basic, simple exercise)
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/108663786/216487540-58d34dd0-977a-489e-892f-9cea44b6090b.png)

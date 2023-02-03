@@ -1,5 +1,5 @@
 # VenmoMachine
-VenmoMachine is a VenMo vending machine simulation app that functions like one , without needing to insert physical coins. Carded images and price value user-input is sent from MainActivity to another activity. 
+VenmoMachine is a VenMo vending machine simulation app that functions like one, without needing to insert physical coins. Carded images and price value user-input is sent from MainActivity to another activity. 
 
 ## For-submission activity instructions
 ![image](https://user-images.githubusercontent.com/108663786/216488599-173ee78b-65c4-4c69-86f5-cf69d580af6e.png)

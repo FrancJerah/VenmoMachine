@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Venmo Machine</string>
+
+    <!--    Venmo Products Names-->
+    <string name="product_name_1">Coke</string>
+    <string name="product_name_2">Sprite</string>
+    <string name="product_name_3">M Dew</string>
+    <string name="product_name_4">Tropicana</string>
+    <string name="product_name_5">Water</string>
+    <string name="product_name_6">Pepsi</string>
+
+    <!--    Venmo Product Prices-->
+    <string name="product_price_1">₱17.00</string>
+    <string name="product_price_2">₱17.00</string>
+    <string name="product_price_3">₱17.00</string>
+    <string name="product_price_4">₱34.00</string>
+    <string name="product_price_5">₱20.00</string>
+    <string name="product_price_6">₱17.00</string>
+    <string name="title_activity_card4">card4Activity</string>
+
+
+<!--    Venmo String Names-->
+    <string name="product_change"></string>
+
+    <!-- Strings used for fragments for navigation (unused) -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,4 +1,5 @@
 # VenmoMachine
+VenmoMachine is a vendo machine simulation app that functions like a virtual machine, without needing to insert physical coins. 
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/108663786/216487540-58d34dd0-977a-489e-892f-9cea44b6090b.png)
